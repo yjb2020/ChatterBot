@@ -2,8 +2,8 @@
 ChatterBot Django Views
 =======================
 
-Exmple API Views
-================
+Example API Views
+=================
 
 ChatterBot's Django example comes with an API view that demonstrates
 one way to use ChatterBot to create an conversational API endpoint
